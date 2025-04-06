@@ -16,7 +16,7 @@ NEOVIM_AWESOME_README_URL = "https://raw.githubusercontent.com/rockerBOO/awesome
 README_H2_PATTERN = r"^## (.+)$"
 README_PLUGIN_PATTERN = r"\[([^/]+)/([^/)]+)\]\(https://github.com/\1/\2\)"
 
-github = Github(auth=Auth.Token(os.environ["GITHUB_API_KEY"]))
+github = Github(auth=Auth.Token(os.environ["GITHUB_TOKEN"]))
 
 
 @dataclass

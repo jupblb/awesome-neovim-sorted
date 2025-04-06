@@ -14,7 +14,7 @@
       in {
         devShell = pkgs.mkShell {
           buildInputs = with pkgs;
-            [ pandoc pyright pythonWithPkgs ruff ruff-lsp ];
+            [ pyright pythonWithPkgs ruff ruff-lsp yaml-language-server ];
           shellHook   = ''
             PYTHONPATH=${pythonWithPkgs}/${pythonWithPkgs.sitePackages}
           '';

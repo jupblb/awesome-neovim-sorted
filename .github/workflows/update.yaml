@@ -1,0 +1,34 @@
+name: Update README.md (daily)
+on:
+  schedule:
+  - cron: '0 0 * * *'
+  workflow_dispatch: # allow manual trigger
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v4
+    - name: Set up nix
+      uses: cachix/install-nix-action@v31
+      with:
+        nix_path: nixpkgs=channel:nixos-unstable
+    - run: nix develop -c ./script.py > README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email \
+          'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        if ! git diff --staged --quiet; then
+          git commit -m "docs: auto-update README.md from script"
+          git push
+        else
+          echo "No changes to commit."
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
