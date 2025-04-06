@@ -31,8 +31,8 @@ class Plugin:
         self.stars = repo.stargazers_count
         self.last_commit = repo.pushed_at
         logging.info(
-            f"Fetched info for {self.owner}/{self.name}: {self.stars} stars,"
-            + f"last commit {self.last_commit}"
+            f"Fetched info for {self.owner}/{self.name}: {self.stars} stars"
+            + f", last commit {self.last_commit}"
         )
 
     def markdown_fields(self) -> list:
