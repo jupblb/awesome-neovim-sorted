@@ -41,6 +41,14 @@ class Plugin:
             + f", last commit {self.last_commit.strftime("%d-%m-%Y")}"
         )
 
+    def __hash__(self):
+        return hash((self.owner, self.name))
+
+    def __eq__(self, value: object, /) -> bool:
+        if not isinstance(value, Plugin):
+            return NotImplemented
+        return self.owner == value.owner and self.name == value.name
+
     def markdown_fields(self) -> list:
         delta_days = (now_utc - self.last_commit).days
         delta_days_str = f"{delta_days} days ago"
@@ -64,9 +72,9 @@ def download_neovim_awesome_readme() -> str:
     return response.text
 
 
-def parse_plugins_per_category(readme: str) -> dict[str, list[Plugin]]:
+def parse_plugins_per_category(readme: str) -> dict[str, set[Plugin]]:
     category: str = "Unknown"
-    category_to_plugins: dict[str, list[Plugin]] = {}
+    category_to_plugins: dict[str, set[Plugin]] = {}
 
     for line in readme.splitlines():
         h2_match = re.match(README_H2_PATTERN, line)
@@ -80,8 +88,8 @@ def parse_plugins_per_category(readme: str) -> dict[str, list[Plugin]]:
             name = plugin_match.group(2)
             description = plugin_match.group(5)
             plugin = Plugin(author, name, description)
-            category_plugins = category_to_plugins.get(category, [])
-            category_plugins.append(plugin)
+            category_plugins = category_to_plugins.get(category, set())
+            category_plugins.add(plugin)
             category_to_plugins[category] = category_plugins
             continue
 
@@ -90,7 +98,7 @@ def parse_plugins_per_category(readme: str) -> dict[str, list[Plugin]]:
     return category_to_plugins
 
 
-def print_plugins_as_markdown(category_to_plugins: dict[str, list[Plugin]]):
+def print_plugins_as_markdown(category_to_plugins: dict[str, set[Plugin]]):
     print("# Awesome Neovim Plugins")
     print()
     for category, plugins in category_to_plugins.items():
