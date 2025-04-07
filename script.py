@@ -4,7 +4,7 @@ import logging
 import os
 import re
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timezone
 
 import requests
 from github import Auth, Github
@@ -19,6 +19,7 @@ README_PLUGIN_PATTERN = (
 )
 
 github = Github(auth=Auth.Token(os.environ["GITHUB_TOKEN"]))
+now_utc = datetime.now(timezone.utc)
 
 
 @dataclass
@@ -41,11 +42,18 @@ class Plugin:
         )
 
     def markdown_fields(self) -> list:
+        delta_days = (now_utc - self.last_commit).days
+        delta_days_str = f"{delta_days} days ago"
+        if delta_days == 0:
+            delta_days_str = "today"
+        if delta_days == 1:
+            delta_days_str = "yesterday"
+
         return [
             f"[{self.owner}/{self.name}]"
             + f"(https://github.com/{self.owner}/{self.name})",
             self.stars,
-            self.last_commit.strftime("%d-%m-%Y"),
+            delta_days_str,
             self.description or "",
         ]
 
