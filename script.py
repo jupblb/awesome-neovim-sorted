@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 
 NEOVIM_AWESOME_README_URL = "https://raw.githubusercontent.com/rockerBOO/awesome-neovim/refs/heads/main/README.md"
 README_H2_PATTERN = r"^## (.+)$"
-README_PLUGIN_PATTERN = r"\[([^/]+)/([^/)]+)\]\(https://github.com/\1/\2\)( - (.+))?"
+README_PLUGIN_PATTERN = r"\[([^/]+)/.+\]\(https://github.com/\1/([^/)]+)([^)]+)?\)( - (.+))?"
 
 github = Github(auth=Auth.Token(os.environ["GITHUB_TOKEN"]))
 
@@ -67,10 +67,9 @@ for line in neovim_awesome_readme.splitlines():
 
     plugin_match = re.search(README_PLUGIN_PATTERN, line)
     if plugin_match:
-        # TODO: Support specific links, like the ones to mini.nvim
         author = plugin_match.group(1)
         name = plugin_match.group(2)
-        description = plugin_match.group(4)
+        description = plugin_match.group(5)
         plugin = Plugin(author, name, description)
         category_plugins = category_to_plugins.get(category, [])
         category_plugins.append(plugin)
