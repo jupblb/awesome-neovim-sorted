@@ -5,7 +5,7 @@
 | URL                                                                     |   Stars | Last commit   |
 |-------------------------------------------------------------------------|---------|---------------|
 | [folke/lazy.nvim](https://github.com/folke/lazy.nvim)                   |   16923 | 25-02-2025    |
-| [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) |     852 | 06-04-2025    |
+| [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) |     853 | 06-04-2025    |
 | [savq/paq-nvim](https://github.com/savq/paq-nvim)                       |     684 | 30-03-2025    |
 | [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim)         |     336 | 01-08-2023    |
 | [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim)           |     292 | 30-03-2025    |
@@ -18,14 +18,14 @@
 |-------------------------------------------------------------------------------------------------------------|---------|---------------|
 | [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)                                           |   11515 | 06-04-2025    |
 | [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim)                                       |    8623 | 24-03-2025    |
-| [folke/trouble.nvim](https://github.com/folke/trouble.nvim)                                                 |    6044 | 12-02-2025    |
+| [folke/trouble.nvim](https://github.com/folke/trouble.nvim)                                                 |    6046 | 12-02-2025    |
 | [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)                                             |    3596 | 26-03-2025    |
 | [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)                                         |    2885 | 05-04-2025    |
 | [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint)                                         |    2279 | 05-04-2025    |
 | [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim)                                               |    2202 | 06-04-2025    |
 | [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim)                                     |    2194 | 29-03-2025    |
 | [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)                                                   |    2187 | 06-02-2025    |
-| [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim)                                             |    1938 | 01-04-2025    |
+| [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim)                                             |    1937 | 01-04-2025    |
 | [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim)                                             |    1588 | 05-12-2024    |
 | [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)                                               |    1339 | 02-04-2025    |
 | [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls)                                       |    1247 | 13-02-2025    |
@@ -33,7 +33,7 @@
 | [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim)         |     896 | 31-03-2025    |
 | [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy)                                         |     856 | 19-07-2024    |
 | [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb)                                       |     840 | 29-03-2025    |
-| [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim)                                             |     821 | 04-04-2025    |
+| [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim)                                             |     821 | 06-04-2025    |
 | [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim)                                                   |     790 | 26-02-2025    |
 | [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim)                                             |     769 | 23-02-2025    |
 | [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim)                                       |     745 | 23-03-2025    |
@@ -56,11 +56,11 @@
 | [junnplus/lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim)                                       |     232 | 19-07-2024    |
 | [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim)                                       |     225 | 04-04-2025    |
 | [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim)                         |     223 | 16-12-2024    |
-| [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim)                                         |     217 | 06-04-2025    |
+| [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim)                                         |     218 | 06-04-2025    |
 | [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)                     |     215 | 20-02-2025    |
 | [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim)               |     195 | 10-08-2024    |
 | [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim)                                           |     190 | 01-09-2022    |
-| [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints)                         |     165 | 25-03-2025    |
+| [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints)                         |     166 | 25-03-2025    |
 | [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim)                     |     159 | 25-06-2024    |
 | [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view)                                     |     157 | 24-03-2025    |
 | [alexpasmantier/pymple.nvim](https://github.com/alexpasmantier/pymple.nvim)                                 |     107 | 28-11-2024    |
@@ -91,9 +91,9 @@
 | URL                                                                                         |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------------|---------|---------------|
 | [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)                                     |    8667 | 01-04-2025    |
-| [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)                                     |    4008 | 05-04-2025    |
+| [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)                                     |    4011 | 06-04-2025    |
 | [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim)                                       |    3664 | 31-03-2025    |
-| [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)                         |    3251 | 06-04-2025    |
+| [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)                         |    3252 | 06-04-2025    |
 | [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) |     192 | 04-03-2022    |
 | [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv)                       |      76 | 05-06-2024    |
 | [deathbeam/autocomplete.nvim](https://github.com/deathbeam/autocomplete.nvim)               |      60 | 13-03-2025    |
@@ -103,10 +103,10 @@
 
 | URL                                                                                 |   Stars | Last commit   |
 |-------------------------------------------------------------------------------------|---------|---------------|
-| [yetone/avante.nvim](https://github.com/yetone/avante.nvim)                         |   12346 | 02-04-2025    |
-| [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)                   |    3932 | 12-10-2024    |
-| [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)     |    3083 | 06-04-2025    |
-| [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) |    2519 | 04-04-2025    |
+| [yetone/avante.nvim](https://github.com/yetone/avante.nvim)                         |   12348 | 02-04-2025    |
+| [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)                   |    3931 | 12-10-2024    |
+| [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)     |    3084 | 06-04-2025    |
+| [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) |    2520 | 04-04-2025    |
 | [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim)                       |    1397 | 29-12-2024    |
 | [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim)                                 |    1114 | 23-09-2024    |
 | [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim)             |     968 | 04-04-2025    |
@@ -118,7 +118,7 @@
 | [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim)                         |     266 | 05-04-2025    |
 | [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai)                                 |     235 | 06-01-2025    |
 | [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim)                       |     181 | 30-03-2025    |
-| [kiddos/gemini.nvim](https://github.com/kiddos/gemini.nvim)                         |      73 | 05-04-2025    |
+| [kiddos/gemini.nvim](https://github.com/kiddos/gemini.nvim)                         |      74 | 05-04-2025    |
 | [Aaronik/GPTModels.nvim](https://github.com/Aaronik/GPTModels.nvim)                 |      68 | 01-02-2025    |
 | [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy)                         |      43 | 31-10-2023    |
 | [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim)                               |      13 | 19-12-2024    |
@@ -128,10 +128,10 @@
 | URL                                                                                                       |   Stars | Last commit   |
 |-----------------------------------------------------------------------------------------------------------|---------|---------------|
 | [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)                           |    7170 | 23-07-2024    |
-| [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) |    2569 | 04-04-2025    |
+| [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) |    2571 | 06-04-2025    |
 | [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)                                         |    2541 | 04-04-2025    |
 | [ray-x/go.nvim](https://github.com/ray-x/go.nvim)                                                         |    2344 | 05-04-2025    |
-| [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim)                                             |    1806 | 10-03-2025    |
+| [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim)                                             |    1807 | 10-03-2025    |
 | [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim)                                         |    1340 | 21-03-2025    |
 | [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java)                                             |    1157 | 17-02-2025    |
 | [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim)                     |    1155 | 30-03-2025    |
@@ -171,7 +171,7 @@
 | [jim-at-jibba/micropython.nvim](https://github.com/jim-at-jibba/micropython.nvim)                         |      57 | 01-01-2025    |
 | [rafaelsq/nvim-goc.lua](https://github.com/rafaelsq/nvim-goc.lua)                                         |      50 | 03-09-2024    |
 | [cjodo/convert.nvim](https://github.com/cjodo/convert.nvim)                                               |      50 | 10-02-2025    |
-| [crusj/structrue-go.nvim](https://github.com/crusj/structrue-go.nvim)                                     |      46 | 29-09-2022    |
+| [crusj/structrue-go.nvim](https://github.com/crusj/structrue-go.nvim)                                     |      47 | 29-09-2022    |
 | [lima1909/resty.nvim](https://github.com/lima1909/resty.nvim)                                             |      43 | 11-12-2024    |
 | [SCJangra/table-nvim](https://github.com/SCJangra/table-nvim)                                             |      43 | 27-09-2024    |
 | [richardbizik/nvim-toc](https://github.com/richardbizik/nvim-toc)                                         |      40 | 04-01-2024    |
@@ -217,7 +217,7 @@
 |---------------------------------------------------------------------------------------------------------------|---------|---------------|
 | [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)                         |   11697 | 06-04-2025    |
 | [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround)                                           |    3599 | 22-03-2025    |
-| [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) |    2343 | 06-04-2025    |
+| [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) |    2344 | 06-04-2025    |
 | [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects)                 |     540 | 02-03-2025    |
 | [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim)                                               |     501 | 23-03-2025    |
 | [IndianBoy42/tree-sitter-just](https://github.com/IndianBoy42/tree-sitter-just)                               |     159 | 05-01-2025    |
@@ -255,7 +255,7 @@
 
 | URL                                                                                   |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------|---------|---------------|
-| [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)                       |    7837 | 10-02-2025    |
+| [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)                       |    7839 | 10-02-2025    |
 | [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim)                       |     977 | 02-09-2024    |
 | [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim)                         |     615 | 29-09-2024    |
 | [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim)             |     613 | 31-03-2025    |
@@ -301,8 +301,8 @@
 
 | URL                                                                                           |   Stars | Last commit   |
 |-----------------------------------------------------------------------------------------------|---------|---------------|
-| [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)             |   17212 | 19-03-2025    |
-| [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)                                       |    3172 | 06-04-2025    |
+| [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)             |   17213 | 19-03-2025    |
+| [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)                                       |    3173 | 06-04-2025    |
 | [camspiers/snap](https://github.com/camspiers/snap)                                           |     503 | 06-03-2025    |
 | [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim)                       |     399 | 02-03-2025    |
 | [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf)                           |     346 | 21-10-2024    |
@@ -315,9 +315,9 @@
 
 | URL                                                                           |   Stars | Last commit   |
 |-------------------------------------------------------------------------------|---------|---------------|
-| [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)         |    7664 | 04-04-2025    |
+| [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)         |    7665 | 06-04-2025    |
 | [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim)                     |    4926 | 31-03-2025    |
-| [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) |    4410 | 03-04-2025    |
+| [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) |    4411 | 03-04-2025    |
 | [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree)                         |    1674 | 06-04-2025    |
 | [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim)               |     912 | 04-04-2025    |
 | [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr)                 |     832 | 13-02-2025    |
@@ -381,12 +381,12 @@
 
 | URL                                                                                                           |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------------------------------|---------|---------------|
-| [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)                                             |    6932 | 18-02-2025    |
+| [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim)                                             |    6933 | 18-02-2025    |
 | [catppuccin/nvim](https://github.com/catppuccin/nvim)                                                         |    6183 | 28-02-2025    |
-| [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)                                             |    4915 | 30-03-2025    |
+| [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)                                             |    4918 | 30-03-2025    |
 | [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)                                           |    3441 | 09-02-2025    |
-| [sainnhe/everforest](https://github.com/sainnhe/everforest)                                                   |    3218 | 26-02-2025    |
-| [rose-pine/neovim](https://github.com/rose-pine/neovim)                                                       |    2562 | 31-03-2025    |
+| [sainnhe/everforest](https://github.com/sainnhe/everforest)                                                   |    3219 | 26-02-2025    |
+| [rose-pine/neovim](https://github.com/rose-pine/neovim)                                                       |    2563 | 31-03-2025    |
 | [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)                                 |    2247 | 31-12-2024    |
 | [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)                                       |    2168 | 24-02-2025    |
 | [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)                                       |    2145 | 02-04-2025    |
@@ -405,10 +405,10 @@
 | [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim)                                               |     900 | 25-06-2024    |
 | [zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim)                               |     859 | 04-03-2025    |
 | [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors)                                   |     854 | 04-04-2025    |
-| [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim)                                               |     840 | 04-04-2025    |
+| [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim)                                               |     841 | 04-04-2025    |
 | [savq/melange-nvim](https://github.com/savq/melange-nvim)                                                     |     811 | 16-01-2025    |
 | [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim)                                                 |     796 | 26-03-2025    |
-| [fenetikm/falcon](https://github.com/fenetikm/falcon)                                                         |     776 | 10-01-2025    |
+| [fenetikm/falcon](https://github.com/fenetikm/falcon)                                                         |     777 | 10-01-2025    |
 | [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim)                                     |     700 | 08-05-2024    |
 | [embark-theme/vim](https://github.com/embark-theme/vim)                                                       |     684 | 26-01-2025    |
 | [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim)                                               |     683 | 24-02-2025    |
@@ -417,7 +417,7 @@
 | [tiagovla/tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim)                                         |     527 | 02-01-2025    |
 | [olivercederborg/poimandres.nvim](https://github.com/olivercederborg/poimandres.nvim)                         |     431 | 19-10-2024    |
 | [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)                                             |     415 | 25-01-2024    |
-| [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim)                                       |     397 | 02-04-2025    |
+| [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim)                                       |     398 | 02-04-2025    |
 | [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim)                               |     386 | 10-03-2025    |
 | [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim)                                           |     367 | 02-12-2023    |
 | [ramojus/mellifluous.nvim](https://github.com/ramojus/mellifluous.nvim)                                       |     362 | 06-04-2025    |
@@ -573,7 +573,7 @@
 | [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)             |    2105 | 14-11-2024    |
 | [max397574/startup.nvim](https://github.com/max397574/startup.nvim)     |     469 | 30-10-2024    |
 | [willothy/veil.nvim](https://github.com/willothy/veil.nvim)             |     154 | 26-07-2024    |
-| [CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim) |     111 | 22-03-2025    |
+| [CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim) |     112 | 22-03-2025    |
 | [TobinPalmer/Tip.nvim](https://github.com/TobinPalmer/Tip.nvim)         |      77 | 04-02-2024    |
 | [mong8se/actually.nvim](https://github.com/mong8se/actually.nvim)       |      59 | 29-01-2025    |
 | [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim)     |      53 | 01-01-2025    |
@@ -611,7 +611,7 @@
 | URL                                                                                   |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------|---------|---------------|
 | [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)                               |    6789 | 29-03-2025    |
-| [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)                     |    5067 | 16-08-2024    |
+| [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)                     |    5068 | 16-08-2024    |
 | [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)                       |    3281 | 04-04-2025    |
 | [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) |    1521 | 26-10-2024    |
 | [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim)                               |    1015 | 16-08-2024    |
@@ -636,9 +636,9 @@
 
 | URL                                                                                               |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------------------|---------|---------------|
-| [folke/noice.nvim](https://github.com/folke/noice.nvim)                                           |    4889 | 11-02-2025    |
+| [folke/noice.nvim](https://github.com/folke/noice.nvim)                                           |    4891 | 11-02-2025    |
 | [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify)                                   |    3268 | 20-01-2025    |
-| [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)                                 |    2564 | 03-04-2025    |
+| [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)                                 |    2565 | 03-04-2025    |
 | [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)                               |    1977 | 12-02-2025    |
 | [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim)                                     |    1334 | 31-12-2022    |
 | [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim)                             |     772 | 07-12-2024    |
@@ -652,8 +652,8 @@
 | [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) |     273 | 03-04-2025    |
 | [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs)           |     268 | 11-11-2024    |
 | [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim)                           |     260 | 13-11-2024    |
+| [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim)                                   |     253 | 06-04-2025    |
 | [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits)                     |     252 | 20-04-2024    |
-| [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim)                                   |     252 | 06-04-2025    |
 | [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder)                       |     249 | 25-03-2025    |
 | [toppair/reach.nvim](https://github.com/toppair/reach.nvim)                                       |     244 | 21-11-2022    |
 | [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim)                                     |     240 | 04-06-2024    |
@@ -741,7 +741,7 @@
 | [kassio/neoterm](https://github.com/kassio/neoterm)                                       |    1326 | 09-03-2023    |
 | [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)                             |     768 | 19-10-2023    |
 | [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim)                         |     587 | 30-12-2024    |
-| [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) |     585 | 03-04-2025    |
+| [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) |     586 | 03-04-2025    |
 | [nikvdp/neomux](https://github.com/nikvdp/neomux)                                         |     363 | 17-04-2023    |
 | [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception)                     |     225 | 04-04-2025    |
 | [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim)                         |     223 | 26-09-2024    |
@@ -767,7 +767,7 @@
 | URL                                                                                           |   Stars | Last commit   |
 |-----------------------------------------------------------------------------------------------|---------|---------------|
 | [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)                             |    6150 | 29-03-2025    |
-| [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)                               |    2926 | 23-01-2025    |
+| [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)                               |    2927 | 23-01-2025    |
 | [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf)                             |    1847 | 29-03-2025    |
 | [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text)         |     947 | 25-12-2024    |
 | [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb)                                       |     743 | 25-01-2025    |
@@ -808,7 +808,7 @@
 | URL                                                                                 |   Stars | Last commit   |
 |-------------------------------------------------------------------------------------|---------|---------------|
 | [michaelb/sniprun](https://github.com/michaelb/sniprun)                             |    1566 | 08-03-2025    |
-| [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)                 |    1489 | 05-04-2025    |
+| [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim)                 |    1489 | 06-04-2025    |
 | [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim)                           |    1096 | 01-04-2025    |
 | [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim)                     |     797 | 17-02-2025    |
 | [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim)             |     582 | 04-04-2025    |
@@ -820,7 +820,7 @@
 | [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim)             |     175 | 06-04-2025    |
 | [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) |     158 | 08-03-2023    |
 | [google/executor.nvim](https://github.com/google/executor.nvim)                     |     149 | 13-01-2025    |
-| [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks)                       |     113 | 17-02-2025    |
+| [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks)                       |     114 | 17-02-2025    |
 | [smzm/hydrovim](https://github.com/smzm/hydrovim)                                   |      80 | 07-05-2023    |
 | [MarcHamamji/runner.nvim](https://github.com/MarcHamamji/runner.nvim)               |      52 | 04-03-2025    |
 | [dasupradyumna/launch.nvim](https://github.com/dasupradyumna/launch.nvim)           |      52 | 30-03-2025    |
@@ -838,7 +838,7 @@
 
 | URL                                                                                         |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------------|---------|---------------|
-| [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)                           |    3034 | 11-02-2025    |
+| [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)                           |    3035 | 11-02-2025    |
 | [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim)                             |    1790 | 06-03-2025    |
 | [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim)                                 |    1020 | 20-02-2025    |
 | [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad)                           |     608 | 08-02-2025    |
@@ -884,13 +884,13 @@
 | URL                                                                                                   |   Stars | Last commit   |
 |-------------------------------------------------------------------------------------------------------|---------|---------------|
 | [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)                                 |    5644 | 06-04-2025    |
-| [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)                                   |    4527 | 02-08-2024    |
+| [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim)                                   |    4528 | 02-08-2024    |
 | [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)                                               |    4485 | 06-04-2025    |
-| [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)                                         |    2635 | 03-04-2025    |
+| [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)                                         |    2636 | 06-04-2025    |
 | [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim)                                     |    1805 | 17-02-2025    |
 | [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim)                             |    1149 | 27-12-2024    |
 | [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim)                                 |     971 | 24-03-2025    |
-| [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)                                         |     739 | 14-03-2025    |
+| [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim)                                         |     740 | 14-03-2025    |
 | [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim)                                               |     577 | 21-01-2025    |
 | [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim)                                       |     555 | 02-05-2024    |
 | [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim)                                         |     435 | 04-02-2025    |
@@ -953,7 +953,7 @@
 
 | URL                                                                             |   Stars | Last commit   |
 |---------------------------------------------------------------------------------|---------|---------------|
-| [folke/which-key.nvim](https://github.com/folke/which-key.nvim)                 |    6044 | 22-02-2025    |
+| [folke/which-key.nvim](https://github.com/folke/which-key.nvim)                 |    6045 | 22-02-2025    |
 | [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim)     |    1212 | 04-04-2025    |
 | [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) |     700 | 31-03-2025    |
 | [FeiyouG/commander.nvim](https://github.com/FeiyouG/commander.nvim)             |     395 | 08-06-2024    |
@@ -995,7 +995,7 @@
 | URL                                                                                                           |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------------------------------|---------|---------------|
 | [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim)                                             |    4225 | 19-08-2024    |
-| [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)                                       |    3570 | 14-01-2025    |
+| [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)                                       |    3571 | 14-01-2025    |
 | [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs)                                             |    3535 | 06-04-2025    |
 | [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)         |    2743 | 04-04-2025    |
 | [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim)                                                 |    1895 | 11-12-2024    |
@@ -1023,7 +1023,7 @@
 | [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim)                                       |     499 | 07-08-2024    |
 | [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment)                                       |     492 | 29-05-2024    |
 | [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim)                                 |     452 | 29-05-2024    |
-| [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim)                               |     443 | 10-08-2024    |
+| [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim)                               |     444 | 10-08-2024    |
 | [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt)                             |     392 | 02-01-2025    |
 | [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action)                                           |     372 | 23-01-2025    |
 | [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim)                                             |     313 | 21-10-2022    |
@@ -1105,7 +1105,7 @@
 
 | URL                                                         |   Stars | Last commit   |
 |-------------------------------------------------------------|---------|---------------|
-| [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) |    1426 | 17-07-2024    |
+| [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) |    1427 | 17-07-2024    |
 | [notomo/cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim) |     122 | 01-02-2025    |
 | [vzze/cmdline.nvim](https://github.com/vzze/cmdline.nvim)   |      16 | 03-04-2025    |
 
@@ -1118,7 +1118,7 @@
 | [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager)     |     565 | 07-03-2025    |
 | [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim)               |     487 | 30-03-2025    |
 | [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim)     |     376 | 06-04-2025    |
-| [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) |     261 | 19-03-2025    |
+| [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) |     262 | 19-03-2025    |
 | [coffebar/neovim-project](https://github.com/coffebar/neovim-project)                 |     229 | 05-04-2025    |
 | [RutaTang/spectacle.nvim](https://github.com/RutaTang/spectacle.nvim)                 |      13 | 28-09-2023    |
 | [niuiic/multiple-session.nvim](https://github.com/niuiic/multiple-session.nvim)       |      10 | 25-05-2024    |
@@ -1168,7 +1168,7 @@
 | URL                                                                                   |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------|---------|---------------|
 | [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good)               |    3655 | 05-12-2024    |
-| [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) |    1966 | 31-01-2025    |
+| [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) |    1967 | 31-01-2025    |
 | [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)                         |    1440 | 22-12-2024    |
 | [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim)               |     471 | 16-11-2024    |
 | [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris)                 |     201 | 17-01-2024    |
@@ -1192,7 +1192,7 @@
 | URL                                                                                         |   Stars | Last commit   |
 |---------------------------------------------------------------------------------------------|---------|---------------|
 | [siduck76/NvChad](https://github.com/siduck76/NvChad)                                       |   25885 | 13-01-2025    |
-| [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)                       |   23542 | 24-03-2025    |
+| [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)                       |   23545 | 24-03-2025    |
 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)                                       |   19981 | 01-03-2025    |
 | [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)                                   |   18753 | 13-07-2024    |
 | [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)                               |   13213 | 04-04-2025    |
