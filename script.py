@@ -38,7 +38,7 @@ class Plugin:
             self.description = repo.description
         logging.info(
             f"Fetched info for {self.owner}/{self.name}: {self.stars} stars"
-            + f", last commit {self.last_commit}"
+            + f", last commit {self.last_commit.strftime("%d-%m-%Y")}"
         )
 
     def markdown_fields(self) -> list:
