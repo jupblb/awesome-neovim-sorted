@@ -52,10 +52,14 @@ class Plugin:
     def markdown_fields(self) -> list:
         delta_days = (now_utc - self.last_commit).days
         delta_days_str = f"{delta_days} days ago"
-        if delta_days == 0:
-            delta_days_str = "today"
-        if delta_days == 1:
-            delta_days_str = "yesterday"
+        if delta_days < 7:
+            delta_days_str = "<1 week ago"
+        elif delta_days < 31:
+            delta_days_str = "<1 month ago"
+        elif delta_days < 365:
+            delta_days_str = "<1 year ago"
+        else:
+            delta_days_str = "long ago (>1 year)"
 
         return [
             f"[{self.owner}/{self.name}]"
