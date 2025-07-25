@@ -7,7 +7,7 @@ from dataclasses import dataclass, field
 from datetime import datetime, timezone
 
 import requests
-from github import Auth, Github
+from github import Auth, Github, UnknownObjectException
 from tabulate import tabulate
 
 logging.basicConfig(level=logging.INFO)
@@ -91,10 +91,13 @@ def parse_plugins_per_category(readme: str) -> dict[str, set[Plugin]]:
             author = plugin_match.group(1)
             name = plugin_match.group(2)
             description = plugin_match.group(5)
-            plugin = Plugin(author, name, description)
-            category_plugins = category_to_plugins.get(category, set())
-            category_plugins.add(plugin)
-            category_to_plugins[category] = category_plugins
+            try:
+                plugin = Plugin(author, name, description)
+                category_plugins = category_to_plugins.get(category, set())
+                category_plugins.add(plugin)
+                category_to_plugins[category] = category_plugins
+            except UnknownObjectException:
+                logging.warning(f"Repo {author}/{name} not found, skipping.")
             continue
 
         # TODO: Check plugins from sources other than GitHub
