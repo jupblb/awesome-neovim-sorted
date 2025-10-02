@@ -1,14 +1,14 @@
-name: Update README.md (weekly)
+name: Update README.md (daily)
 on:
   push:
     branches:
     - main
   schedule:
-  - cron: '0 0 * * 0' # Every Sunday
+  - cron: '0 0 * * *'
   workflow_dispatch: # allow manual trigger
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, dionysus]
     permissions:
       contents: write
     steps:
