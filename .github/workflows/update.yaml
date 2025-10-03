@@ -8,7 +8,7 @@ on:
   workflow_dispatch: # allow manual trigger
 jobs:
   update-readme:
-    runs-on: [self-hosted, dionysus]
+    runs-on: [self-hosted]
     permissions:
       contents: write
     steps:
